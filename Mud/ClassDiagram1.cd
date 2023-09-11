@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bag">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABABgAAQAAAEgAAAICAEAAQAAAAAAQIAABEIA=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Bag.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAgAhICAgAAAAAUCEAAAAACgCAEAQCCIABEAAAAEIg=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fight">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAAAAAAIAAAABAACAgAAAAIAYCABEgAAIgCQAAI=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Fight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Goods">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAiEQAAgAA0AIAAAAIQACQkEAEAARAAAIEAAAAFKA=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Goods.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAJAAAAAAAAAIIoAAACAEAAASEJAcCAIABAA=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Npc">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAgAAAAAAAAAAAAACAAAEAQAACAAsIAIAEAA=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Npc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Role">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AChkCFICARmBAA8SvADAAACAGgSEBQiCsAAkPNDGElg=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Role.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Save">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Save.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skill">
+    <Position X="9.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIQAAAAAAQAgEBMAACAAAABAABQAwAAAAAAEKAAgAQA=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Skill.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAIAAQABAAIAIQAAAAA=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Store.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAQAAAAQAQAAAAJAEAABIAEAEKAAAAIA=</HashCode>
+      <FileName>C:\Users\86182\Desktop\MUD-game - 副本\Task.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
